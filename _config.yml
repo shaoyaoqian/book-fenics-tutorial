@@ -1,16 +1,16 @@
 # Configurations
-title:            非线性弹性力学
-longtitle:        非线性弹性力学
+title:            FEniCS教程
+longtitle:        FEniCS教程
 author:           Pengfei Ma
 email:            mpf_npu@icloud.com
 description: >
-  非线性弹性力学翻译。
+  FEniCS教程翻译。
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'http://book-nonelinear-elasticity.pengfeima.cn'
-baseurl:          'http://book-nonelinear-elasticity.pengfeima.cn'
+url:              'http://book-fenics-tutorial.pengfeima.cn'
+baseurl:          'http://book-fenics-tutorial.pengfeima.cn'
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
